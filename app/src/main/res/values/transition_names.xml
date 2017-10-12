@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="card_transition_element">card_transition_element</string>
+    <string name="toolbar_transition_element">toolbar_transition_element</string>
+    <string name="background_transition_element">background_transition_element</string>
+</resources>
